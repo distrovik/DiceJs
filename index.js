@@ -13,4 +13,4 @@ if (rando1 === rando2) {
   document.querySelector("h1").innerHTML = "☝🏼 Player 1 Wins!";
 } else if (rando1 < rando2) {
   document.querySelector("h1").innerHTML = "✌🏼 Player 2 Wins!";
-}
+};
